@@ -15,3 +15,5 @@
 ---
 
 *Selección automática basada en impacto público. Fuentes consultadas: Diario El Mundo, La Prensa Gráfica y El Diario de Hoy. Actualizado el 5 de agosto de 2026 a las 21:08 (America/El_Salvador).*
+
+Actualización automática diaria por Adam ⚡️
